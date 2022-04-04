@@ -15,4 +15,4 @@ mongoose: ^6.2.9
 
 github link: https://github.com/WIUT00011173/wiut_webtech_cw2
 
-heroku domain:
+heroku domain:https://job-position.herokuapp.com/
